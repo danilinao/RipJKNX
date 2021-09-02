@@ -1,3 +1,7 @@
+Это форк приложения для просомтра аниме онлайн на Nintendo Switch
++ использование русскоязычных источников
+
+
 # RipJKNX <img style="display:inline" src="Icon.jpg" width="32"/>
  App de [JKAnime](https://jkanime.net/) para Nintendo Switch
 ----------------------------------------
